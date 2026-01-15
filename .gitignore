@@ -1,0 +1,22 @@
+# Swift Package Manager
+.build/
+.swiftpm/
+Package.resolved
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+DerivedData/
+
+# Build artifacts
+PasswordGen.app/
+*.zip
+
+# macOS
+.DS_Store
+*.dSYM
+
+# IDE
+.idea/
+.vscode/

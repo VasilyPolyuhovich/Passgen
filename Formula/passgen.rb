@@ -2,7 +2,7 @@ class Passgen < Formula
   desc "Menu bar password generator with global hotkey"
   homepage "https://github.com/VasilyPolyuhovich/Passgen"
   url "https://github.com/VasilyPolyuhovich/Passgen/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "PLACEHOLDER_SHA256"
+  sha256 "22ea2573bc90fb2e4d1e03ed4a29d4cd0e43751f85ecdd4df8343e53f9d5a913"
   license "MIT"
   head "https://github.com/VasilyPolyuhovich/Passgen.git", branch: "main"
 
